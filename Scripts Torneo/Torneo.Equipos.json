@@ -2,51 +2,51 @@
   "_id": {
     "$oid": "66402110f049968dbf94a5b4"
   },
-  "equipo": "Real Madrid",
-  "entrenador": "Carlo Ancelotti",
+  "Equipo": "Real Madrid",
+  "Entrenador": "Carlo Ancelotti",
   "Pais": "España",
-  "activo": true,
-  "jugadores": [
+  "Activo": true,
+  "Jugadores": [
     {
-      "jugador": "Thibaut Courtois",
+      "Jugador": "Thibaut Courtois",
       "Posicion": "Arquero",
-      "anhos": 30,
+      "Anhos": 30,
       "Numero_camisa": 1
     },
     {
-      "jugador": "Éder Militão",
+      "Jugador": "Éder Militão",
       "Posicion": "Defensa central",
-      "anhos": 25,
+      "Anhos": 25,
       "Numero_camisa": 3
     },
     {
-      "jugador": "Antonio Rüdiger",
+      "Jugador": "Antonio Rüdiger",
       "Posicion": "Defensa central",
-      "anhos": 30,
+      "Anhos": 30,
       "Numero_camisa": 22
     },
     {
-      "jugador": "Ferlan Mendy",
+      "Jugador": "Ferlan Mendy",
       "Posicion": "Lateral",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 23
     },
     {
-      "jugador": "Jude Bellingham",
+      "Jugador": "Jude Bellingham",
       "Posicion": "Mediocentro",
-      "anhos": 20,
+      "Anhos": 20,
       "Numero_camisa": 5
     },
     {
-      "jugador": "Tony Kross",
+      "Jugador": "Tony Kross",
       "Posicion": "Mediocentro",
-      "anhos": 32,
+      "Anhos": 32,
       "Numero_camisa": 8
     },
     {
-      "jugador": "Vinícius Júnior",
+      "Jugador": "Vinícius Júnior",
       "Posicion": "Extremo",
-      "anhos": 23,
+      "Anhos": 23,
       "Numero_camisa": 7
     }
   ]
@@ -55,51 +55,51 @@
   "_id": {
     "$oid": "6640225cf049968dbf94a5b8"
   },
-  "equipo": "Manchester City",
-  "entrenador": "Pep Guardiola",
+  "Equipo": "Manchester City",
+  "Entrenador": "Pep Guardiola",
   "Pais": "Inglaterra",
-  "activo": true,
-  "jugadores": [
+  "Activo": true,
+  "Jugadores": [
     {
-      "jugador": "Ederson",
+      "Jugador": "Ederson",
       "Posicion": "Arquero",
-      "anhos": 30,
+      "Anhos": 30,
       "Numero_camisa": 31
     },
     {
-      "jugador": "Rúben Dias",
+      "Jugador": "Rúben Dias",
       "Posicion": "Defensa central",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 3
     },
     {
-      "jugador": "John Stones",
+      "Jugador": "John Stones",
       "Posicion": "Defensa central",
-      "anhos": 29,
+      "Anhos": 29,
       "Numero_camisa": 5
     },
     {
-      "jugador": "Kyle Walker",
+      "Jugador": "Kyle Walker",
       "Posicion": "Lateral",
-      "anhos": 33,
+      "Anhos": 33,
       "Numero_camisa": 2
     },
     {
-      "jugador": "Kevin De Bruyne",
+      "Jugador": "Kevin De Bruyne",
       "Posicion": "Mediocentro",
-      "anhos": 32,
+      "Anhos": 32,
       "Numero_camisa": 17
     },
     {
-      "jugador": "Bernardo Silva",
+      "Jugador": "Bernardo Silva",
       "Posicion": "Mediocentro",
-      "anhos": 29,
+      "Anhos": 29,
       "Numero_camisa": 20
     },
     {
-      "jugador": "Erling Haaland",
+      "Jugador": "Erling Haaland",
       "Posicion": "Delantero",
-      "anhos": 23,
+      "Anhos": 23,
       "Numero_camisa": 9
     }
   ]
@@ -108,51 +108,51 @@
   "_id": {
     "$oid": "6640239df049968dbf94a5b9"
   },
-  "equipo": "Bayerd Munich",
-  "entrenador": "Thomas Tuchel",
+  "Equipo": "Bayerd Munich",
+  "Entrenador": "Thomas Tuchel",
   "Pais": "Alemania",
-  "activo": true,
-  "jugadores": [
+  "Activo": true,
+  "Jugadores": [
     {
-      "jugador": "Manuel Neuer",
+      "Jugador": "Manuel Neuer",
       "Posicion": "Arquero",
-      "anhos": 38,
+      "Anhos": 38,
       "Numero_camisa": 1
     },
     {
-      "jugador": "Matthijs de Ligt",
+      "Jugador": "Matthijs de Ligt",
       "Posicion": "Defensa central",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 4
     },
     {
-      "jugador": "Kim Min-Jae",
+      "Jugador": "Kim Min-Jae",
       "Posicion": "Defensa central",
-      "anhos": 24,
+      "Anhos": 24,
       "Numero_camisa": 3
     },
     {
-      "jugador": "Alphonso Davies",
+      "Jugador": "Alphonso Davies",
       "Posicion": "Lateral",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 19
     },
     {
-      "jugador": "Joshua Kimmich",
+      "Jugador": "Joshua Kimmich",
       "Posicion": "Mediocentro",
-      "anhos": 29,
+      "Anhos": 29,
       "Numero_camisa": 6
     },
     {
-      "jugador": "Leon Goretzka",
+      "Jugador": "Leon Goretzka",
       "Posicion": "Mediocentro",
-      "anhos": 30,
+      "Anhos": 30,
       "Numero_camisa": 8
     },
     {
-      "jugador": "Harry Kane",
+      "Jugador": "Harry Kane",
       "Posicion": "Delantero",
-      "anhos": 29,
+      "Anhos": 29,
       "Numero_camisa": 9
     }
   ]
@@ -161,51 +161,51 @@
   "_id": {
     "$oid": "66402482f049968dbf94a5ba"
   },
-  "equipo": "PSG-Paris Saint-Germain",
-  "entrenador": "Luis Enrique",
+  "Equipo": "PSG-Paris Saint-Germain",
+  "Entrenador": "Luis Enrique",
   "Pais": "Francia",
-  "activo": true,
-  "jugadores": [
+  "Activo": true,
+  "Jugadores": [
     {
-      "jugador": "Gianluigi Donnarumma",
+      "Jugador": "Gianluigi Donnarumma",
       "Posicion": "Arquero",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 99
     },
     {
-      "jugador": "Presnel Kimpembe",
+      "Jugador": "Presnel Kimpembe",
       "Posicion": "Defensa central",
-      "anhos": 28,
+      "Anhos": 28,
       "Numero_camisa": 3
     },
     {
-      "jugador": "Lucas Hernández",
+      "Jugador": "Lucas Hernández",
       "Posicion": "Defensa central",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 21
     },
     {
-      "jugador": "Achraf Hakimi",
+      "Jugador": "Achraf Hakimi",
       "Posicion": "Lateral",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 2
     },
     {
-      "jugador": "Lee Kang-In",
+      "Jugador": "Lee Kang-In",
       "Posicion": "Mediocentro",
-      "anhos": 24,
+      "Anhos": 24,
       "Numero_camisa": 19
     },
     {
-      "jugador": "Vitinha",
+      "Jugador": "Vitinha",
       "Posicion": "Mediocentro",
-      "anhos": 25,
+      "Anhos": 25,
       "Numero_camisa": 17
     },
     {
-      "jugador": "Kylian Mbappé",
+      "Jugador": "Kylian Mbappé",
       "Posicion": "Delantero",
-      "anhos": 26,
+      "Anhos": 26,
       "Numero_camisa": 7
     }
   ]
