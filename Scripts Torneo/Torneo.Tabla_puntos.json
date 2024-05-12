@@ -8,7 +8,7 @@
       "Equipo": "Real Madrid",
       "PJ": 6,
       "Goles_a_favor": 11,
-      "Goles en contra": 8,
+      "Goles_en_contra": 8,
       "Diferencia_de_goles": 3,
       "Puntos": 11
     },
@@ -17,7 +17,7 @@
       "Equipo": "Manchester City",
       "PJ": 6,
       "Goles_a_favor": 11,
-      "Goles en contra": 10,
+      "Goles_en_contra": 10,
       "Diferencia_de_goles": 1,
       "Puntos": 9
     },
@@ -26,7 +26,7 @@
       "Equipo": "Bayern Munich",
       "PJ": 6,
       "Goles_a_favor": 12,
-      "Goles en contra": 12,
+      "Goles_en_contra": 12,
       "Diferencia_de_goles": 0,
       "Puntos": 5
     },
@@ -35,7 +35,7 @@
       "Equipo": "PSG-paris saint germain",
       "PJ": 6,
       "Goles_a_favor": 12,
-      "Goles en contra": 12,
+      "Goles_en_contra": 12,
       "Diferencia_de_goles": 0,
       "Puntos": 5
     }
