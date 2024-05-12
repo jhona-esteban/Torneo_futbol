@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66405e93ccd151c0bc9fc176"
+  },
+  "Posicion": 1,
+  "Jugador": "Harry Kane",
+  "Anotaciones": 13,
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "66405e93ccd151c0bc9fc177"
+  },
+  "Posicion": 2,
+  "Jugador": "Kylian Mbappe",
+  "Anotaciones": 10,
+  "Equipo": "PSG - Paris Saint Germain"
+},
+{
+  "_id": {
+    "$oid": "66405e93ccd151c0bc9fc178"
+  },
+  "Posicion": 3,
+  "Jugador": "Erling Haaland",
+  "Anotaciones": 7,
+  "Equipo": "Manchester City"
+}]

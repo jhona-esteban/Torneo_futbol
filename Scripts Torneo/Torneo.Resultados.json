@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "664033bdf049968dbf94a5d7"
+  },
+  "Jornada 1": [
+    {
+      "Equipos_que_jugaron": "Real Madrid vs Psg",
+      "Resultado": "2 y 0",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-5-20",
+      "Goleadores": [
+        "Jude 2",
+        "Vinicius 48"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "Bayern Munich vs Manchester City",
+      "Resultado": "3 a 2",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-5-20",
+      "Goleadores": [
+        "Kane 30,48,90",
+        "Haaland 60,85"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404d4d6fa255e29e7f51cc"
+  },
+  "Jornada 2": [
+    {
+      "Equipos_que_jugaron": "Bayern Munich vs Real Madrid",
+      "Resultado": "1 a 2",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-5-25",
+      "Goleadores": [
+        "Kane 90",
+        "Vinicius 85,90+1"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "PSG vs Manchester city",
+      "Resultado": "2 a 2",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-5-25",
+      "Goleadores": [
+        "Kylian 70,80",
+        "Haaland 81,90"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404e13ccd151c0bc9fc166"
+  },
+  "Jornada 3": [
+    {
+      "Equipos_que_jugaron": "Real Madrid vs Manchester city",
+      "Resultado": "1 a 1",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-5-30",
+      "Goleadores": [
+        "Jude 8",
+        "Kevin 85"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "PSG vs Bayern Munich",
+      "Resultado": "2 a 2",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-5-30",
+      "Goleadores": [
+        "Kylian 70,80",
+        "Kane 81,90"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404facccd151c0bc9fc167"
+  },
+  "Jornada 4": [
+    {
+      "Equipos_que_jugaron": "PSG vs Real Madrid",
+      "Resultado": "2 a 1",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-6-10",
+      "Goleadores": [
+        "Hakimi 2",
+        "Kylian 90",
+        "Vinicius 4"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "Manchester City vs Bayern Munich ",
+      "Resultado": "3 a 2",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-6-10",
+      "Goleadores": [
+        "Haaland 30,48,90",
+        "Kane 60,85"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404fd4ccd151c0bc9fc168"
+  },
+  "Jornada 5": [
+    {
+      "Equipos_que_jugaron": " Real Madrid vs Bayern Munich",
+      "Resultado": "3 a 2",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-6-25",
+      "Goleadores": [
+        "Jude 90",
+        "Kross 91,90+5",
+        "Kimmich 85, Kane 90+1"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": " Manchester city vs PSG ",
+      "Resultado": "2 a 1",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-6-25",
+      "Goleadores": [
+        "Kevin 70,80",
+        "hakimi, 90"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6640500bccd151c0bc9fc169"
+  },
+  "Jornada 6": [
+    {
+      "Equipos_que_jugaron": "Manchester city vs Real Madrid ",
+      "Resultado": "1 a 1",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-6-30",
+      "Goleadores": [
+        "KevinDe 8",
+        "Mendy 85"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "Bayern Munich vs PSG ",
+      "Resultado": "2 a 2",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-6-30",
+      "Goleadores": [
+        "Kane 70,80",
+        "Kylian 81,90"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66405b9accd151c0bc9fc172"
+  },
+  "Jornada_Final": [
+    {
+      "Equipos_que_jugaron": "Manchester city vs Real Madrid ",
+      "Resultado": "1 a 2",
+      "arbitros": "Grupo1",
+      "fecha_de_juego": "2024-7-10",
+      "Goleadores": [
+        "KevinDe 8",
+        "Mendy 85",
+        "Vinicius 90"
+      ]
+    },
+    {
+      "Equipos_que_jugaron": "Bayern Munich vs PSG ",
+      "Resultado": "1 a 2",
+      "arbitros": "Grupo2",
+      "fecha_de_juego": "2024-7-09",
+      "Goleadores": [
+        "Kane 70",
+        "Kylian 81,90"
+      ]
+    }
+  ]
+}]

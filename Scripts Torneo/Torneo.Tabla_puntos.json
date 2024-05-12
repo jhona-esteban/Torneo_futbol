@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "66405adfccd151c0bc9fc170"
+  },
+  "Tabla_de_posicion": [
+    {
+      "posicion": 1,
+      "Equipo": "Real Madrid",
+      "PJ": 6,
+      "Goles_a_favor": 11,
+      "Goles en contra": 8,
+      "Diferencia_de_goles": 3,
+      "Puntos": 11
+    },
+    {
+      "posicion": 2,
+      "Equipo": "Manchester City",
+      "PJ": 6,
+      "Goles_a_favor": 11,
+      "Goles en contra": 10,
+      "Diferencia_de_goles": 1,
+      "Puntos": 9
+    },
+    {
+      "posicion": 3,
+      "Equipo": "Bayern Munich",
+      "PJ": 6,
+      "Goles_a_favor": 12,
+      "Goles en contra": 12,
+      "Diferencia_de_goles": 0,
+      "Puntos": 5
+    },
+    {
+      "posicion": 4,
+      "Equipo": "PSG-paris saint germain",
+      "PJ": 6,
+      "Goles_a_favor": 12,
+      "Goles en contra": 12,
+      "Diferencia_de_goles": 0,
+      "Puntos": 5
+    }
+  ]
+}]

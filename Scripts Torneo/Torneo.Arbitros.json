@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "66402110f049968dbf94a5b4"
+  },
+  "Grupo": "Grupo 1",
+  "Lider_arbitros": "Carlos Arturo Ortega Jaimes",
+  "Nacionalidad": "Colombiano",
+  "activo": true,
+  "Ayudantes": [
+    {
+      "nombre_arbitro": "Wilmar Alexander Roldán Pérez",
+      "tipo_arbitro": "Lateral izquierdo"
+    },
+    {
+      "nombre_arbitro": "Luis Alfredo Delgado Hurtado",
+      "tipo_arbitro": "Lateral derecho"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664026f6f049968dbf94a5cc"
+  },
+  "Grupo": "Grupo 2",
+  "Lider_arbitros": "Jhon Alexander Hinestroza Romaña",
+  "Nacionalidad": "Colombiano",
+  "activo": true,
+  "Ayudantes": [
+    {
+      "nombre_arbitro": "Diego Ulloa Angulo",
+      "tipo_arbitro": "Lateral izquierdo"
+    },
+    {
+      "nombre_arbitro": "Luis Gabriel Matorel Martínez",
+      "tipo_arbitro": "Lateral derecho"
+    }
+  ]
+}]
