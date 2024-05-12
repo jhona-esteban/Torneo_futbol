@@ -5,15 +5,15 @@
   "Grupo": "Grupo 1",
   "Lider_arbitros": "Carlos Arturo Ortega Jaimes",
   "Nacionalidad": "Colombiano",
-  "activo": true,
+  "Activo": true,
   "Ayudantes": [
     {
-      "nombre_arbitro": "Wilmar Alexander Roldán Pérez",
-      "tipo_arbitro": "Lateral izquierdo"
+      "Nombre_arbitro": "Wilmar Alexander Roldán Pérez",
+      "Tipo_arbitro": "Lateral izquierdo"
     },
     {
-      "nombre_arbitro": "Luis Alfredo Delgado Hurtado",
-      "tipo_arbitro": "Lateral derecho"
+      "Nombre_arbitro": "Luis Alfredo Delgado Hurtado",
+      "Tipo_arbitro": "Lateral derecho"
     }
   ]
 },
@@ -24,15 +24,15 @@
   "Grupo": "Grupo 2",
   "Lider_arbitros": "Jhon Alexander Hinestroza Romaña",
   "Nacionalidad": "Colombiano",
-  "activo": true,
+  "Activo": true,
   "Ayudantes": [
     {
-      "nombre_arbitro": "Diego Ulloa Angulo",
-      "tipo_arbitro": "Lateral izquierdo"
+      "Nombre_arbitro": "Diego Ulloa Angulo",
+      "Tipo_arbitro": "Lateral izquierdo"
     },
     {
-      "nombre_arbitro": "Luis Gabriel Matorel Martínez",
-      "tipo_arbitro": "Lateral derecho"
+      "Nombre_arbitro": "Luis Gabriel Matorel Martínez",
+      "Tipo_arbitro": "Lateral derecho"
     }
   ]
 }]
